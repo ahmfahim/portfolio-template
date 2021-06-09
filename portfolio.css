@@ -1,0 +1,147 @@
+/* portCoverImg */
+.portCoverImg img{
+    width: 100%;
+    height: 300px;
+    padding-top: 50px;
+}
+.portCoverImg{
+    background-color: #6600ff;
+    border-bottom-right-radius: 200px;
+}
+.portCoverImg h1{
+    padding-top: 140px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 60px;
+    text-shadow: 1px 1px 5px rgb(66, 66, 66);
+}
+.portCoverImg p{
+    color: rgb(211, 211, 211);
+    font-weight: bold;
+    text-shadow: 1px 1px 5px rgb(49, 49, 49);
+    padding: 30px;
+
+}
+.portSecondImg{
+    margin-top: 200px;
+    margin-bottom: -10px;
+}
+@media (max-width:976px) {
+    .portCoverImg h1{
+        padding-top: 100px;
+        text-align: center;
+        color: white;
+        font-weight: bold;
+        font-size: 40px;
+        text-shadow: 1px 1px 5px rgb(66, 66, 66);
+    }
+}
+@media(max-width:990px) {
+    .portSecondImg{
+        display: none;
+    }
+}
+/* port cover */
+.portCover{
+    margin-top: 50px;
+}
+
+.column1{
+    margin-top: 20px;
+}
+.cardBody1{
+    color: white;
+    font-size: 40px;
+    background-color: orangered;
+    text-align: center;
+}
+.cardBody2{
+    color: white;
+    font-size: 40px;
+    background-color: rgb(174, 2, 197);
+    text-align: center;
+}
+.cardBody3{
+    color: black;
+    font-size: 40px;
+    background-color: yellow;
+    text-align: center;
+}
+.cardBody4{
+    color: white;
+    font-size: 40px;
+    background-color: rgb(2, 2, 187);
+    text-align: center;
+}
+.cardBody5{
+    color: black;
+    font-size: 40px;
+    background-color: cyan;
+    text-align: center;
+}.cardBody6{
+    color: white;
+    font-size: 40px;
+    background-color: green;
+    text-align: center;
+}
+.cardBody7{
+    color: white;
+    font-size: 40px;
+    background-color: rgb(29, 0, 134);
+    text-align: center;
+    font-weight: bold;
+
+}
+
+
+/* portfolio */
+.portfolio{
+    margin-top: 100px;
+}
+.portfolioTitle{
+    color:#6600ff;
+    font-weight: bold;
+    text-shadow: 1px 1px 5px rgb(165, 165, 165);
+}
+.cardTopImg{
+    width: 100%;
+    height: 200px;
+}
+.card{
+    border: none;
+    box-shadow: 1px 1px 5px rgb(202, 202, 202);
+}
+.card .btnStyle{
+    border-radius: 0%;
+    background-color:#6600ff;
+    color: white;
+    font-size: 10px;
+    padding: 3px;
+}
+.card .btnStyle2{
+    height: 30px;
+    padding: 0px;
+    width: 90px;
+}
+.card p{
+    color:gray;
+    font-size: 12px;
+}
+.card h5{
+    font-weight: bold;
+}
+.cardCol{
+    margin-top:50px
+}
+.btnBottom{
+    margin-top: 30px;
+    background-color: #6600ff;
+    border-radius: 0;
+    padding: 20px;
+}
+.btnBottom a{
+    color:white;
+    font-size: 20px;
+    text-decoration: none;
+}

@@ -1,0 +1,110 @@
+.profile img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    margin-top: -100px;
+    padding: 3px;
+    box-shadow:1px 3px 5px rgb(216, 216, 216) ;
+}
+.aboutCover img{
+    height: 250px;
+    width: 100%;
+    background-color: #6600ff;
+}
+.aboutCover{
+    box-shadow: 1px 3px 5px rgb(207, 207, 207);
+}
+
+.name{
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+}
+.bio{
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.row .fas{
+    color: #6600ff;
+    font-size: 25px;
+}
+.row .fab{
+    color: #6600ff;
+    font-size: 25px;
+}
+.row a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.intro{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 50px;
+}
+.hobby h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+.hobby .fas{
+    color:black
+}
+.hobby .btn{
+    margin: 10px;
+}
+.skills{
+    margin-top: 50px;
+}
+.skills h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+.skills .row i{
+    width:100%;
+    margin:10px;
+    height: 100px;
+    box-shadow: 2px 2px 10px rgb(212, 212, 212);
+    font-size: 50px;
+    text-align: center;
+    padding-top:23px;
+    border-radius: 5px;
+}
+
+
+.skillCol1 i:hover{
+    background-color: orangered;
+    transition: 1s;
+    color: black;
+}
+.skillCol2 i:hover{
+    background-color: #0066cc;
+    transition: 1s;
+    color: white;
+}
+.skillCol3 i:hover{
+    background-color: #6600cc;
+    transition: 1s;
+    color: white;
+}
+.skillCol4 i:hover{
+    background-color: #ffff00;
+    transition: 1s;
+    color: black;
+}
+.skillCol5 i:hover{
+    background-color: #00ffff;
+    transition: 1s;
+    color: black;
+}
+.skillCol6 i:hover{
+    background-color: #00cc66;
+    transition: 1s;
+    color: #ffff00;
+}
+.skillCol7 i:hover{
+    background-color: black;
+    transition: 1s;
+    color: cyan;
+}
+.skillCol8 i:hover{
+    background-color: #003300;
+    transition: 2s;
+    color: white;
+}

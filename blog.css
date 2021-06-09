@@ -1,0 +1,93 @@
+/* cover */
+.social{
+    margin-top: 100px;
+    text-align: center;
+}
+.social a{
+    padding: 20px;
+    font-size: 30px;
+    color:#6600ff;
+    text-decoration: none;
+    text-shadow:  1px 2px 5px rgb(180, 180, 180);
+}
+.hr1{
+    width: 130px;
+    border: 2px solid rgb(184, 184, 184);
+    margin-top: 30px;
+}
+.hr2{
+    width: 300px;
+    border-top: 2px solid rgb(184, 184, 184);
+    margin-top: 30px;
+}
+.blogCover .title h1{
+    text-align: center;
+    font-family: 'Bangers', cursive;
+    font-size: 90px;
+    color: #6600ff;
+    text-shadow: 1px 2px 5px rgb(128, 128, 128);
+}
+
+.blogCover{
+    background-image: url(./img/blogCover1.svg);
+    width:100%;
+    height: 300PX;
+}
+
+/* Blog post */
+.Blog{
+    margin-top: 100px;
+}
+.Blog img{
+    height: 250px;
+    width: 100%;
+}
+.hr3{
+    width:80px
+}
+.Blog .card{
+    margin-top: 20px;
+    border:0px;
+    box-shadow: 1px 1px 5px rgb(211, 211, 211);
+}
+.Blog i{
+    font-size:30px;
+    padding-left: 40px;
+    color:#6600ff;
+}
+.Blog i:active{
+    color:red;
+}
+.Blog2ndSec{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.Blog2ndSec img{
+    width:100%;
+    height: 300px;
+}
+.secondBlogImgBG{
+    background-color: #6600ff;
+    margin-left: -6px;
+    margin-bottom: -20px;
+    margin-top: -20px;
+
+
+}
+.Blog2ndSec i{
+    font-size: 30px;
+    padding-left: 20px;
+    color: #6600ff;
+}
+.Blog2ndSec .btnBG{
+    background-color:#6600ff;
+    color: white;
+    font-weight: bold;
+}
+.Blog2ndSec .ColBG{
+    box-shadow: 1px 1px 5px rgb(197, 197, 197);
+    border:0;
+}
+.BlogCard{
+    margin-top:20px;
+}
